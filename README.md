@@ -2,7 +2,7 @@
 ## Introducción
 En este repositorio se crearán las actividades a llevar a cabo, se categorizaran con etiquetas y se establecerá un tiempo estimado con base a las fases anteriores de este taller. Se agruparán y definirá su madurez con etapas definidas. Crear y administrar el código de la base de datos. 
 
-## Actividades del proyecto
+# Actividades del proyecto
 ## Comprender necesidades, recoletar y analizar los requerimientos
 Comprender las necesidades y objetivos comerciales de la dulcería, identificar las ventajas de tener una gestión de inventario, de ventas, de clientes y proveedores. Documentar los requerimientos funcionales y no funcionales del sistema.
 
