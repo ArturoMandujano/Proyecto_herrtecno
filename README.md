@@ -61,3 +61,6 @@ Esperar revisión y Merge
 ## Roadmap
 Establecer una gestión de cambio para medir el proceso para gestionar cambios en los requerimientos a medida que surgen nuevas necesidades o modificaciones durante el desarrollo.
 
+## Ejemplo de resultados
+![](https://github.com/ArturoMandujano/Proyecto_herrtecno/blob/main/SQL%20Ejemplo.PNG)
+
