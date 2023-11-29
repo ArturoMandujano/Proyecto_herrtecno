@@ -25,11 +25,11 @@ Esta actividad será una versión beta donde se visualizará como están los dat
 ## Uso
 Diseñar la estructura de la base de datos, incluyendo las tablas, campos, claves primarias y foráneas, y las relaciones entre las tablas, logrando garantizar una base coherente, consistente y de calidad.
 La base de datos tiene 5 tablas y son las siguientes:
-Categoría: CategoriaID, NombreCategoria, descripcion
-Productos: ProductoID, NombreProducto, DescripcionProducto, Precio, Stock, CategoriaID
-Clientes: ClienteID, NombreCLiente, Email, Teléfono
-Venta: VentaID, FechaVenta, ClienteID
-Detalle_Venta: DetalleID, VentaID, ProductoID, Cantidad, PrecioUnitorio, PrecioTotal
+1. Categoría: CategoriaID, NombreCategoria, descripcion
+2. Productos: ProductoID, NombreProducto, DescripcionProducto, Precio, Stock, CategoriaID
+3. Clientes: ClienteID, NombreCLiente, Email, Teléfono
+4. Venta: VentaID, FechaVenta, ClienteID
+5. Detalle_Venta: DetalleID, VentaID, ProductoID, Cantidad, PrecioUnitorio, PrecioTotal
 
 ## Contribución
 Clonar el repositorio:
