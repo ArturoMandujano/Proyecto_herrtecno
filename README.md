@@ -10,7 +10,14 @@ Crear una base de datos relacional, que tenga diferentes tablas que permitan alm
 DRDA (Arquitectura de Base de Datos Relacional Distribuida)
 
 ## Requerimientos
-Microsoft SQL Server Management Studio 18 como servidor y base de datos
+1. Microsoft SQL Server Management Studio 18 como servidor y base de datos
+2. Tabla de Categorías para categorizar los productos
+3. Tabla de Productos para registrar todos los productos en stock
+4. Tabla de las Ventas para registrar todas las operaciones de venta
+5. Tabla de Detalles de ventas para registrar todas las operaciones de venta
+6. Tabla de Clientes para registrar todas las operaciones de venta
+7. Querys o Procedimientos almacenados para repetir instrucciones
+8. Crear una forja de alojamiento en Github
 
 ## Instalación 
 https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.html
